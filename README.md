@@ -6,4 +6,4 @@ Need a strong and difficult password, generate from 20 to 30 characters per pass
 
     - Latest version of Python
     - Install Tkinter on python (tutorial available on a lot of youtube video)
-    - Must have a windows OS (minimum 7)
+    - Must have a windows OS (minimum windows 7)
